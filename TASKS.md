@@ -1,5 +1,7 @@
 # Overview
 
+Start the app by running `yarn start` and poiniting your browser to `http://localhost:3000`.
+
 Open `src/App.js` and describe the code for the component.
 
 # Styling
